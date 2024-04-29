@@ -246,7 +246,9 @@ color:black;
 
 
 .name{
-  margin-left:135px;
+  width:589px;
+  margin: auto;
+  padding:50px 9px;
 }
 
 .welcome{
