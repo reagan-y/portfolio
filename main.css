@@ -277,7 +277,7 @@ color:black;
 }
 
 video {
-  object-fit: contain;
+  object-fit: fill;
   overflow-clip-margin: content-box;
   overflow: clip;
   display: block;
